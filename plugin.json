@@ -6,11 +6,11 @@
   "keywords"              : ["theme", "Naturdrogerie", "template"],
   "type"                  :"theme",
   "require"               : [],
-  "serviceProvider"       :"Theme\\Providers\\NaturdrogerieCheckoutServiceProvider",
+  "serviceProvider"       :"NaturdrogerieCheckout\\Providers\\NaturdrogerieCheckoutServiceProvider",
   "dataProviders"         :
   [
     {
-      "key"           :"Theme\\Containers\\NaturdrogerieCheckoutContainer",
+      "key"           :"NaturdrogerieCheckout\\Containers\\NaturdrogerieCheckoutContainer",
       "name"          :"Naturdrogerie Checkout",
       "description"   :"Gestaltet den Naturdrogerie-Checkout entsprechend dem Corporate Design"
     }
