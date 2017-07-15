@@ -1,9 +1,10 @@
 {
+  "version"               :"0.1",
   "name"                  :"Naturdrogerie Checkout Theme",
   "description"           :"Naturdrogerie Checkout Theme",
   "namespace"             :"NaturdrogerieCheckout",
-  "author"                :"Uwe Schuermann",
-  "keywords"              : ["theme", "Naturdrogerie", "template"],
+  "author"                :"Uwe Schuermann, Die Naturdrogerie",
+  "keywords"              :["theme", "Naturdrogerie", "template"],
   "type"                  :"theme",
   "require"               : [],
   "serviceProvider"       :"NaturdrogerieCheckout\\Providers\\NaturdrogerieCheckoutServiceProvider",
